@@ -34,3 +34,8 @@ include = ["src/experttrace", "tests", "examples", "README.md", "LICENSE", "CONT
 
 [tool.hatch.build]
 include = ["src/experttrace/**/*.py", "src/experttrace/packs/*.json"]
+
+[project.urls]
+Homepage = "https://github.com/elythera-lab/experttrace"
+Repository = "https://github.com/elythera-lab/experttrace"
+Issues = "https://github.com/elythera-lab/experttrace/issues"
