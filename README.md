@@ -1,9 +1,17 @@
 # ExpertTrace Python SDK
 
+[![Install from PyPI](https://img.shields.io/badge/install-pip%20install%20elythera--experttrace-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/elythera-experttrace/)
+[![Latest PyPI version](https://img.shields.io/pypi/v/elythera-experttrace?label=latest%20version)](https://pypi.org/project/elythera-experttrace/)
+
 ExpertTrace is an open-source toolkit for eliciting, structuring, and auditing
 expert judgment. It runs as a deterministic local workflow by default. An
 optional LLM layer can ask one targeted follow-up when an expert's answer needs
 more specificity.
+
+GitHub is the home for [source code and documentation](https://github.com/elythera-lab/experttrace),
+while PyPI is the distribution channel. See the
+[PyPI package](https://pypi.org/project/elythera-experttrace/) and the
+[Elythera Labs publisher profile](https://pypi.org/user/elythera-lab/).
 
 ## Install
 
