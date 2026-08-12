@@ -8,6 +8,14 @@ expert judgment. It runs as a deterministic local workflow by default. An
 optional LLM layer can ask one targeted follow-up when an expert's answer needs
 more specificity.
 
+## Interactive demo
+
+Explore the six-question capture flow and inspect an example knowledge card:
+[elythera-lab.github.io/experttrace](https://elythera-lab.github.io/experttrace/)
+
+The browser demonstration runs locally in your browser. The installable Python
+package provides the full toolkit and optional LLM integration.
+
 GitHub is the home for [source code and documentation](https://github.com/elythera-lab/experttrace),
 while PyPI is the distribution channel. See the
 [PyPI package](https://pypi.org/project/elythera-experttrace/) and the
